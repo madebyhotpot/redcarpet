@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__figma-remote-mcp__get_design_context",
+      "mcp__figma-remote-mcp__get_metadata",
+      "Bash(bash -c \"npm install react-webcam embla-carousel-react framer-motion @supabase/supabase-js @vercel/blob @fal-ai/client @trigger.dev/sdk@latest 2>&1\")",
+      "Bash(bash -c \"mkdir -p /Users/ansonkao/Sites/redcarpet/supabase/migrations\")",
+      "Bash(bash -c \"mkdir -p /Users/ansonkao/Sites/redcarpet/app/api/upload /Users/ansonkao/Sites/redcarpet/app/api/effects /Users/ansonkao/Sites/redcarpet/app/api/shots/[id] /Users/ansonkao/Sites/redcarpet/lib /Users/ansonkao/Sites/redcarpet/components\")",
+      "Bash(bash -c \"npx tsc --noEmit 2>&1\")"
+    ]
+  }
+}
